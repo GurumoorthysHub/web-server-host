@@ -1,0 +1,2 @@
+Successfully deployed a virtual machine on Microsoft Azure and set up a web server using Apache on Ubuntu.
+ Great hands-on experience working with cloud infrastructure and web hosting.
